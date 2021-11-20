@@ -34,7 +34,7 @@ const music_list = [
         music : 'music/Jann Gann Mann.mp3'
     },
     {
-        img : 'images/raataan.jpg',
+        img : 'images/raataan.jpeg',
         name : 'Raataan Lambiyan',
         artist : 'Tanishk B| Jubin Nautiyal',
         music : 'music/Raataan.mp3'
