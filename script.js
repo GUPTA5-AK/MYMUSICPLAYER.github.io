@@ -34,13 +34,13 @@ const music_list = [
         music : 'music/Jann Gann Mann.mp3'
     },
     {
-        img : 'images/raataan.jpeg',
+        img : 'images/raataan.jpg',
         name : 'Raataan Lambiyan',
         artist : 'Tanishk B| Jubin Nautiyal',
         music : 'music/Raataan.mp3'
     },
     {
-        img : 'images/aankhein.jpg',
+        img : 'images/aankhein.jpeg',
         name : 'Aankhein Khuli',
         artist : 'Lata Mangeshkar, Udit Narayan',
         music : 'music/aankhein.mp3'
